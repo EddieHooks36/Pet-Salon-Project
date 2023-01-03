@@ -20,3 +20,7 @@ nav{
     padding: 10px 0 40px;
     justify-content: space-between;
 }
+img{
+    max-width: 100%;
+    min-width: 768px;
+}
