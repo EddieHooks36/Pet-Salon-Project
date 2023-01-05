@@ -37,9 +37,13 @@ function register(){
     
     console.log(newPet);
     console.log(petSalon.pets)
-}
-function displayifo(){
 
+    alert("You have" + petSalon.pets.length + "pets in the salon");
+    displayInfo();
+    console.log(petSalon.pets.length);
+}
+function displayInfo(){
+    
 }
 
 function init(){
